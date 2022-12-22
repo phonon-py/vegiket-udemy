@@ -1,0 +1,7 @@
+# dirs
+__pycache__
+venv
+secrets
+
+# files
+db.sqlite3
